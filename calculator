@@ -6,4 +6,5 @@ print(add)
 sub=a-b
 print(sub)
 
-
+multiplication=a*b
+print(multiplication)
